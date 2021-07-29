@@ -1,0 +1,12 @@
+{
+  "name": "traitsapp",
+  "displayName": "traitsapp",
+  "expo": {
+    "name": "traitsapp",
+    "slug": "traitsapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
